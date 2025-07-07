@@ -4,7 +4,8 @@ This project focuses on *Web Scraping + Exploratory Data Analysis (EDA)* of Indi
 
 ![Python](https://img.shields.io/badge/Python-EDA-blue)
 ![Web Scraping](https://img.shields.io/badge/WebScraping-BeautifulSoup-yellowgreen)
-[![LinkedIn](https://img.shields.io/badge/Connect-keerthi-jyoshna-blue?logo=linkedin)](https://www.linkedin.com/in/keerthi-jyoshna/)
+[![LinkedIn](https://img.shields.io/badge/Connect-Keerthi%20Jyoshna-blue?logo=linkedin)](https://www.linkedin.com/in/keerthi-jyoshna/)
+
 
 ---
 
