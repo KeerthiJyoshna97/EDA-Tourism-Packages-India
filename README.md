@@ -46,15 +46,6 @@ To help travel companies and travelers better understand:
 
 ---
 
-## 👨‍💻 Team Members
-
-- V Mahesh – BTech CSE  
-- A. Keerthi – BSc   [🔗 LinkedIn](https://www.linkedin.com/in/keerthi-jyoshna/)
-- Ch. Jahnavi – BTech IT  
-- *Akshay* – BTech AI & ML 
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository  
